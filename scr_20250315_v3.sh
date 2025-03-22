@@ -4,3 +4,4 @@ echo "this is new file from branch br2"
 echo "sai"
 date
 echo "enabled poll scm to build every time i commit this file"
+echo "commit abnother line to trigger poll scm"
